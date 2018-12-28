@@ -1,4 +1,4 @@
-# SpringMVC  
+# SpringMVC
 实现简易SpringMVC功能
 
 - 第一，我们应该去扫描基包下的类，得到信息A
